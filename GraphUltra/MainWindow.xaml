@@ -1,0 +1,20 @@
+﻿<Window x:Class="GraphUltra.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Graph Ultra Engine" Height="794.2" Width="1287.2">
+    <Grid Name="rootGrid" Margin="0,0,2,-1">
+        <Border x:Name="CanvasBorder" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="14,32,0,0" Height="300" Width="700">
+            <Canvas Name="canvas" Height="300" Width="700"/>
+        </Border>
+        <Button x:Name="createGraphBtn" Content="Create new graph" HorizontalAlignment="Left" Margin="720,137,0,0" VerticalAlignment="Top" Width="105" RenderTransformOrigin="0.84,0.6" Click="createGraphBtn_Click"/>
+        <TextBox x:Name="NrOfVertTxBox" HorizontalAlignment="Left" Height="23" Margin="793,162,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="32"/>
+        <Label Content="# of Vertices" HorizontalAlignment="Left" Margin="720,162,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="startBut" Content="Run algorithm" HorizontalAlignment="Left" Margin="720,234,0,0" VerticalAlignment="Top" Width="105" RenderTransformOrigin="0.493,-0.8" Click="startBut_Click"/>
+        <Border x:Name="CanvasBorder2" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="14,381,0,0" Height="300" Width="700">
+            <Canvas x:Name="residualCanvas" Height="300" Width="700"/>
+        </Border>
+        <Label Content="Flow Graph" HorizontalAlignment="Left" Margin="328,6,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.816,0.423"/>
+        <Label Content="Residual Graph" HorizontalAlignment="Left" Margin="328,355,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.132,0.192"/>
+        <TextBox x:Name="logBox" HorizontalAlignment="Left" Height="649" Margin="830,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="383" FontFamily="Times New Roman" FontSize="16"/>
+    </Grid>
+</Window>

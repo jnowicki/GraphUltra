@@ -1,0 +1,13 @@
+c:\users\kuba\documents\visual studio 2013\Projects\GraphUltra\GraphUltra\bin\Debug\GraphUltra.exe.config
+c:\users\kuba\documents\visual studio 2013\Projects\GraphUltra\GraphUltra\bin\Debug\GraphUltra.exe
+c:\users\kuba\documents\visual studio 2013\Projects\GraphUltra\GraphUltra\bin\Debug\GraphUltra.pdb
+c:\users\kuba\documents\visual studio 2013\Projects\GraphUltra\GraphUltra\obj\Debug\GraphUltra.csprojResolveAssemblyReference.cache
+c:\users\kuba\documents\visual studio 2013\Projects\GraphUltra\GraphUltra\obj\Debug\MainWindow.baml
+c:\users\kuba\documents\visual studio 2013\Projects\GraphUltra\GraphUltra\obj\Debug\MainWindow.g.cs
+c:\users\kuba\documents\visual studio 2013\Projects\GraphUltra\GraphUltra\obj\Debug\App.g.cs
+c:\users\kuba\documents\visual studio 2013\Projects\GraphUltra\GraphUltra\obj\Debug\GraphUltra_MarkupCompile.cache
+c:\users\kuba\documents\visual studio 2013\Projects\GraphUltra\GraphUltra\obj\Debug\GraphUltra.g.resources
+c:\users\kuba\documents\visual studio 2013\Projects\GraphUltra\GraphUltra\obj\Debug\GraphUltra.Properties.Resources.resources
+c:\users\kuba\documents\visual studio 2013\Projects\GraphUltra\GraphUltra\obj\Debug\GraphUltra.csproj.GenerateResource.Cache
+c:\users\kuba\documents\visual studio 2013\Projects\GraphUltra\GraphUltra\obj\Debug\GraphUltra.exe
+c:\users\kuba\documents\visual studio 2013\Projects\GraphUltra\GraphUltra\obj\Debug\GraphUltra.pdb
